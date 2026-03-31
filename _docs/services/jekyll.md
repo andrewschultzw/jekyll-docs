@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Jekyll Docs Site
-parent: Docs
+parent: Services
+grand_parent: Docs
 nav_order: 1
 ---
 
